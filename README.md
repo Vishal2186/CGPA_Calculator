@@ -8,11 +8,11 @@ simple calulator to calculate CGPA...
  
 GRADE | MARKS RANGE  | GRADE POINTS|    
 ------|--------------|-------------|
-A | 91-100   | 10 |
+A+ | 91-100   | 10 |
 A | 81-90    | 9 |
-B | 71-80    | 8 |
+B+ | 71-80    | 8 |
 B | 61-70    | 7 |
-C | 51-60    | 6 |
+C+ | 51-60    | 6 |
 C | 41-50    | 5 |
 D | 40 only  | 4 |
 F | below 40 | 0 |
